@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: verdana;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: rgb(170, 190, 209);
+}
+#counterlabel{
+    font-size: 10em;
+    margin-bottom: 20px;
+}
+button{
+    font-size: 2em;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(100, 120, 140);
+    color: white;
+}
+#decrementbtn:hover{
+    background-color: rgb(220, 59, 59);
+}
+#incrementbtn:hover{
+    background-color: rgb(94, 215, 20);
+}
+#resetbtn:hover{
+    background-color: rgb(101, 111, 205);
+}

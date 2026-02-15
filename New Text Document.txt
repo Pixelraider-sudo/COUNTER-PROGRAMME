@@ -1,0 +1,66 @@
+🧪 PRACTICAL QUESTION: Counter Program (HTML + CSS + JavaScript)
+📌 Requirements
+
+Build a Counter App with the following features:
+
+1️⃣ HTML
+
+A heading that displays “Counter Program”
+
+A label that displays the current count (starting at 0)
+
+Three buttons:
+
+Increase
+
+Decrease
+
+Reset
+
+2️⃣ CSS
+
+Center everything on the page
+
+Make the number large and bold
+
+Buttons should be evenly spaced
+
+Add hover effect to buttons
+
+3️⃣ JavaScript
+
+The counter must:
+
+Increase by 1 when “Increase” is clicked
+
+Decrease by 1 when “Decrease” is clicked
+
+Reset to 0 when “Reset” is clicked
+
+Use:
+
+let for the counter variable
+
+getElementById
+
+onclick events
+
+Update the number on the page dynamically
+
+🧠 Constraints (Important)
+
+❌ Do NOT use prompt()
+
+❌ Do NOT hard-code the number in HTML
+
+✅ Counter must start from 0 in JavaScript
+
+🧩 Bonus (Optional)
+
+Change the number color:
+
+Green if positive
+
+Red if negative
+
+Black if zero
